@@ -1,1 +1,1 @@
-# ⭐ Tailwindcss Repository !!
+# ⭐ Tailwindcss Repository !
